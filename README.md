@@ -45,7 +45,7 @@ As classes relacionadas ao desafio estão organizadas na pasta `Desafio2`.
 
 Calcula os juros de uma cobrança a partir do valor, da data de vencimento e da quantidade de dias em atraso, considerando multa de **2,5% ao dia**.
 
-Por se tratar de uma implementação simples, a lógica do Desafio 3 está diretamente no `Program.cs`, não sendo necessária uma classe específica para sua execução.
+A implementação do Desafio 3 está diretamente no `Program.cs`.
 
 ## Observações
 
